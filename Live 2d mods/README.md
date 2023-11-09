@@ -1,0 +1,2 @@
+# This holds all the custom live 2d I have made for the game version codes and how to install will be included when I add them
+- I am not responsible for what is broken in your copy of the game please don't contact me that your game won't boot after installing
